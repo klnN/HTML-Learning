@@ -6,7 +6,7 @@ font-size:24px;
 }  
 ***************/
 body{
-    background:black;
+    background:grey;
 }
 p,h1{
     color:red;
@@ -18,4 +18,38 @@ h4{
 
 div p{
     color:green
+}
+
+/* 
+id is # 
+*/
+
+#first-para{
+    color:yellow
+}
+
+/*
+class is . 
+*/
+
+.first-para{
+    
+    color:chocolate
+}
+
+div {
+    border: 4px solid black;
+    background:pink;
+    color:azure;
+    float:right;
+    width:50%;
+    border-radius:25px;
+    margin-right:20px;
+    padding:10px;
+}
+
+div ul{    
+list-style-type: none;
+list-style-type: square;
+
 }
