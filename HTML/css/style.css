@@ -1,0 +1,21 @@
+/**************
+p{
+color:red;
+font-weight:bold;
+font-size:24px;
+}  
+***************/
+body{
+    background:black;
+}
+p,h1{
+    color:red;
+}
+
+h4{
+    color:antiquewhite;
+}
+
+div p{
+    color:green
+}
