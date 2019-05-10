@@ -1,0 +1,49 @@
+#page-title{
+text-align:center;
+}
+
+#picture-container{
+border:1px solid black;
+width:400px;
+/*height:400px;*/
+margin: 0 auto;
+
+border:0px solid black;
+padding:20px;
+background: grey;
+}
+
+img#image{
+width:100%;
+border: 2px solid black;
+border-radius: 20px;
+}
+
+#picture-css{
+width:600px;
+height:900px;
+background-image: url(../images/image1.jpg);
+margin:0 auto;
+}
+
+#hovers{
+height:200px;
+width:200px;
+border:1px solid black;
+
+background-size:100%;
+background-repeat:no-repeat;
+opacity:0.7;
+}
+
+#hovers:hover{  
+background-color:black;
+border:1px solid red;
+background-image: url(../images/image1.jpg);
+color:silver;
+opacity:1;
+}
+
+#hovers h2{
+text-align:center;
+}
